@@ -3,7 +3,7 @@
 1. Background and Overview
 - Used car prices vary widely based on vehicle age, mileage, fuel type, ownership history and seller type. Without clear data insights, buyers and sellers struggle to price vehicles accurately.
 
-This project analyzes CarDekho used-car listings to identify the primary drivers of resale value, separating high-impact factors from common market misconceptions.
+ This project analyzes CarDekho used-car listings to identify the primary drivers of resale value, separating high-impact factors from common market  misconceptions.
 
 2. Data Structure Overview
 - The analysis utilizes a clean dataset containing 299 unique vehicle records with zero missing values:
